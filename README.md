@@ -1,16 +1,15 @@
 # live_notes
 
-A new Flutter project.
+# Hasil Implementasi Kode (Coding)
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/8c6b0fb8-5a87-4666-9251-dbc7b006b628" />
 
-## Getting Started
+Output yang dihasilkan jika sudah menerapkan implementasi kode yaitu terdapat tombol tambah di pojok kiri bawah yang dimana pada tombol itu dapat menambahkan data
 
-This project is a starting point for a Flutter application.
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/de603a41-54d8-4e3f-80de-6dce29d1e72a" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/b0f9a8fd-4e7d-458f-b041-b4007e82f55c" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+pada gambar kedua terdapat fitur untuk mengedit data yang sudah ada
+
+<img width="908" height="436" alt="image" src="https://github.com/user-attachments/assets/741e5e22-e7f7-4129-889d-120c6fbd2961" />
